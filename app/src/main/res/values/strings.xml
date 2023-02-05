@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Quiz : Play And Earn </string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="admob_id">ca-app-pub-1142421405927438~4427626489</string>
+    <string name="rewarded_ads">ca-app-pub-1142421405927438/4044483102</string>
+    <string name="Inter_ads">ca-app-pub-1142421405927438/3816224724</string>
+    <string name="Banner_id">ca-app-pub-1142421405927438/2886286430</string>
+
+</resources>
+
